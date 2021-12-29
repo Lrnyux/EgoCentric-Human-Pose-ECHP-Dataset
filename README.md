@@ -21,7 +21,8 @@ We will public the egocentric images soon available at [here](https://github.com
 
 ## Results
 Below shows some qualitative results on our ECHA dataset, you can refer to our paper for more results.
-![vis_3d](https://user-images.githubusercontent.com/86871168/147670321-9562a82f-e984-411f-9080-bf3db1bbd452.png)
+![p3d_ECHA](https://user-images.githubusercontent.com/86871168/147670551-ea967fe5-d403-4514-8e7d-fa377e7289da.png)
+
 
 ## Citation
 ```
