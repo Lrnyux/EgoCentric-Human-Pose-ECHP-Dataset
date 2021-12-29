@@ -1,5 +1,5 @@
 # EgoCentric-Human-Action(ECHA) Dataset
-This is the official version of ECHA dataset in the paper **"EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning"**
+This is the official version of ECHA dataset in the paper **"EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning"**--[paper](https://github.com/SJTUlyx/EgoCentric-Human-Action-ECHA-Dataset).
 ![overview](https://user-images.githubusercontent.com/86871168/147398404-7ee8fcad-24a8-4a7a-89ad-5288c7bfccdd.png)
 
 Information:
@@ -21,10 +21,15 @@ We will public the egocentric images soon available at [here](https://github.com
 
 ## Results
 Below shows some qualitative results on our ECHA dataset, you can refer to our paper for more results.
-![p3d_ECHA](https://user-images.githubusercontent.com/86871168/147670551-ea967fe5-d403-4514-8e7d-fa377e7289da.png)
+![vis_3d](https://user-images.githubusercontent.com/86871168/147670746-03d20b38-f9f7-4b75-8b07-eb6cb215ceac.png)
 
 
 ## Citation
-```
-  cite here:
+Please cite our work if you find this dataset or paper useful for your research.
+```latex
+@article{liu2022,
+  title={EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning}, 
+  author={Yuxuan Liu, Jianxin Yang, Yijun Chen, Xiao Gu, Yao Guo and Guang-Zhong Yang},
+  ......}
+  
 ```
