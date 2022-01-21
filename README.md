@@ -27,9 +27,6 @@ Below shows some qualitative results on our ECHA dataset, you can refer to our p
 ## Citation
 Please cite our work if you find this dataset or paper useful for your research.
 ```latex
-@article{liu2022,
-  title={EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning}, 
-  author={Yuxuan Liu, Jianxin Yang, Yijun Chen, Xiao Gu, Yao Guo and Guang-Zhong Yang},
-  ......}
+@misc{liu_2022, title={EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning}, url={https://www.techrxiv.org/articles/preprint/EgoFish3D_Egocentric_3D_Pose_Estimation_from_a_Fisheye_Camera_via_Self-Supervised_Learning/18516119/1}, DOI={10.36227/techrxiv.18516119.v1}, publisher={TechRxiv}, author={Liu, Yuxuan}, year={2022}, month={Jan} } 
   
 ```
