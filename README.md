@@ -12,9 +12,6 @@ To address the challenges in egocentric 3D pose estimation, we propose a real-wo
 
 ![data_collection](https://user-images.githubusercontent.com/86871168/147669662-4c266356-ef4d-46a2-ad81-90e3c43b21cc.png)
 ![actions](https://user-images.githubusercontent.com/86871168/147398391-418eebfc-05eb-4a70-a78c-444ddfe7f2a5.png)
-## Overview
-
-![dataset](https://user-images.githubusercontent.com/86871168/147669873-6a0e9976-3c49-4b2a-9509-efa83d41c985.png)
 
 ## Download
 We will public the egocentric images soon.
