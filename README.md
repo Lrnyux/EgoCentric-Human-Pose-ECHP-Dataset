@@ -14,7 +14,7 @@ To address the challenges in egocentric 3D pose estimation, we propose a real-wo
 ![actions](https://user-images.githubusercontent.com/86871168/147398391-418eebfc-05eb-4a70-a78c-444ddfe7f2a5.png)
 
 ## Download
-We have published the sub-dataset captured by VICON system [Baidu](https://pan.baidu.com/s/1dadvj48SJufcfhB3TdYDxA)(password:ECHP) [OneDrive]()(password:ECHP).
+We have published the sub-dataset captured by VICON system [Baidu](https://pan.baidu.com/s/1dadvj48SJufcfhB3TdYDxA)(password:ECHP) [OneDrive](https://onedrive.live.com/?cid=416F105BFC9929B2&id=416F105BFC9929B2%21292&parId=root&o=OneUp).
 
 If you want to ask for the whole dataset, please send the request to my email {20000905lyx@sjtu.edu.cn}.
 
