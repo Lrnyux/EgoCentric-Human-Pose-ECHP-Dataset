@@ -26,7 +26,7 @@ Below shows some qualitative results on our ECHP dataset, you can refer to our p
 ## Citation
 Please cite our work if you find this dataset or paper useful for your research.
 ```latex
-@ARTICLE{10037218,
+@ARTICLE{liuegofish3d,
   author={Liu, Yuxuan and Yang, Jianxin and Gu, Xiao and Chen, Yijun and Guo, Yao and Yang, Guang-Zhong},
   journal={IEEE Transactions on Multimedia}, 
   title={EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning}, 
