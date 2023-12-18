@@ -29,11 +29,11 @@ Please cite our work if you find this dataset or paper useful for your research.
 @ARTICLE{liuegofish3d,
   author={Liu, Yuxuan and Yang, Jianxin and Gu, Xiao and Chen, Yijun and Guo, Yao and Yang, Guang-Zhong},
   journal={IEEE Transactions on Multimedia}, 
-  title={EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning}, 
+  title={EgoFish3D: Egocentric 3D Pose Estimation From a Fisheye Camera via Self-Supervised Learning}, 
   year={2023},
-  volume={},
+  volume={25},
   number={},
-  pages={1-12},
+  pages={8880-8891},
   doi={10.1109/TMM.2023.3242551}}
   
 ```
